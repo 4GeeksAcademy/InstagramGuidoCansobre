@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background-color: silver;
+}
+header {
+    background: white;
+    text-align: center;
+    padding-top: 30px;
+}
+h1 {
+    padding-right: 30px;
+    text-align: center;
+    font-size: 42px;
+    font-weight: bold;
+}
+h2{
+    /* padding-top: 15px; */
+    /* padding-right: 30px; */
+    text-align: left;
+    padding-left: 11px;
+    font-size: 20px;
+    font-weight: bold;
+}
+h3{
+    padding-right: 30px;
+    padding-left: 11px;
+    font-size: 13px;
+    font-weight: lighter;
+}
+.pagina {
+    background: white;
+    padding-left: 11px;
+    padding: 0px;
+    margin: 0 auto;
+    width: 400px;
+    height: 300px;
+}
+section article {
+    background-color: white;
+    margin: 4px 0;
+}
+.asterisco {
+    font-weight: bold;
+}
+.fecha {
+  
+    right: 550px;
+    margin-right: 10px;
+    font-weight: lighter;
+    font-size: 13px;
+}
+#espacio {
+    padding-right: 50px;
+    
+}
+img {
+    width: 400px;
+}
+.encabezado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.encabezado span {
+padding-right: 10px;
+}
